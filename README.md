@@ -13,4 +13,4 @@ This product is for an exercise called forking.
 
 ## Contributing
 
-To contribute, add your code whereever you'd like
+To contribute, add your code wherever you'd like
